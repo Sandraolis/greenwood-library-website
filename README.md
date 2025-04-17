@@ -40,6 +40,7 @@ git merge add-book-reviews
 git push origin main
 ```
 ![merge--2](/img/merge--2.png)
+![pull](/img/git%20checkout%20and%20pull.png)
 
 # Jamies work: Updating Events Page
 1. ## Create and Switch to New Branch:
@@ -49,22 +50,29 @@ git checkout main
 git pull origin main
 git checkout -b update-events
 ```
-
-![checkout](/img/compare-n-pull.png)
-![update](/img/update.png)
+![update](/img/update-events.png)
 
 2. ## Staging and Commiting Change:
- ``` bash
- git commit -m "update events"
- git pull --rebase origin main
- # resolve any onflict if they occur
- git push origin update-events
+``` bash
+git add .
+git commit -m "this is the homepage"
+git push origin update-events
  ```
-   
+ ![add&commit](/img/add&commit.png)
 
+ 3. ## Creating Pull Request for Morgan's Work:
+ Confirm compare and pull request
 
+ ![cnp22](/img/CND22.png)
 
+ click on the pull request
 
+ ![CPP](/img/CPP.png)
 
+ Confirm that there is no conflict
 
+ ![noconflict](/img/no-conflicy-merge.png)
 
+ switch to main branch and pull
+
+ ![mainpull](/img/mainpull.png)
