@@ -27,7 +27,7 @@ git push origin add-book-reviews
 1. Navigate to the cloned Github repository
 2. Click "Compare & pull request" for add-book-reviews
 
-![compare](/img/compare-n-pull.png)
+![compare](img/compare-n-pull.png)
 
 ![PR](/img/PR.png)
 below the pull request page, you wouls see create pull request. click on it
