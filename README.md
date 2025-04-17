@@ -6,7 +6,7 @@ git checkout main
 git pull origin main
 git branch add-book-reviews
 ```
-![branch](/img/branch.png)
+![branch](img/branch.png)
 
 2. ## Stage and Commit Changes:
 
@@ -15,7 +15,7 @@ git add book_reviews.html
 git commit -m "Add book reviews section"
 git push origin add-book-reviews
 ```
-![commit](/img/commit.png)
+![commit](img/commit.png)
 
 `The push origin add-book-reviews`
 
