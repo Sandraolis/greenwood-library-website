@@ -19,7 +19,7 @@ git push origin add-book-reviews
 
 `The push origin add-book-reviews`
 
-![push](/img/push.png)
+![push](./img/push.png)
 
 3. ## Creating Pull Request for Morgan's Work
 ### Steps:
@@ -39,8 +39,8 @@ git checkout main
 git merge add-book-reviews
 git push origin main
 ```
-![merge--2](/img/merge--2.png)
-![pull](/img/git%20checkout%20and%20pull.png)
+![merge--2](img/merge--2.png)
+![pull](img/git%20checkout%20and%20pull.png)
 
 # Jamies work: Updating Events Page
 1. ## Create and Switch to New Branch:
